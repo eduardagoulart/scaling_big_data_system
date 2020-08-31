@@ -1,0 +1,4 @@
+.DS_Store
+.ipynb_checkpoints/
+.spark_env/
+.write_test2.csv.crc
