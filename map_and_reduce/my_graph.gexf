@@ -1,0 +1,661 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2021-06-01">
+    <creator>NetworkX 2.5.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="16-bit" label="16-bit" />
+      <node id="Amiga" label="Amiga" />
+      <node id="Apple II series" label="Apple II series" />
+      <node id="Atari ST" label="Atari ST" />
+      <node id="Advanced Micro Devices" label="Advanced Micro Devices" />
+      <node id="Athlon" label="Athlon" />
+      <node id="Amiga 500" label="Amiga 500" />
+      <node id="Amiga 1000" label="Amiga 1000" />
+      <node id="Amiga 500 Plus" label="Amiga 500 Plus" />
+      <node id="Commodore 64" label="Commodore 64" />
+      <node id="Digital Equipment Corporation" label="Digital Equipment Corporation" />
+      <node id="16-bit computing" label="16-bit computing" />
+      <node id="Wikipedia:Protection policy" label="Wikipedia:Protection policy" />
+      <node id="Wikipedia:Redirect" label="Wikipedia:Redirect" />
+      <node id="Category:Redirects from moves" label="Category:Redirects from moves" />
+      <node id="4-bit" label="4-bit" />
+      <node id="Intel" label="Intel" />
+      <node id="Intel 80286" label="Intel 80286" />
+      <node id="Intel 8080" label="Intel 8080" />
+      <node id="Intel 8086" label="Intel 8086" />
+      <node id="Intel 8088" label="Intel 8088" />
+      <node id="I386" label="I386" />
+      <node id="I486" label="I486" />
+      <node id="Intel 80486SX" label="Intel 80486SX" />
+      <node id="Intel 80186" label="Intel 80186" />
+      <node id="4-bit computing" label="4-bit computing" />
+      <node id="64-bit" label="64-bit" />
+      <node id="Accelerated Graphics Port" label="Accelerated Graphics Port" />
+      <node id="Buffer overflow" label="Buffer overflow" />
+      <node id="BeOS" label="BeOS" />
+      <node id="Duke Nukem 3D" label="Duke Nukem 3D" />
+      <node id="DEC Alpha" label="DEC Alpha" />
+      <node id="Executable and Linkable Format" label="Executable and Linkable Format" />
+      <node id="IBM mainframe" label="IBM mainframe" />
+      <node id="64-bit computing" label="64-bit computing" />
+      <node id="Wikipedia:1" label="Wikipedia:1" />
+      <node id="Wikipedia:Printability" label="Wikipedia:Printability" />
+      <node id="Category:Unprintworthy redirects" label="Category:Unprintworthy redirects" />
+      <node id="8-bit" label="8-bit" />
+      <node id="Acorn Electron" label="Acorn Electron" />
+      <node id="Apple III" label="Apple III" />
+      <node id="Amstrad CPC" label="Amstrad CPC" />
+      <node id="Apple II" label="Apple II" />
+      <node id="Arcadia 2001" label="Arcadia 2001" />
+      <node id="8-bit computing" label="8-bit computing" />
+      <node id="AMD" label="AMD" />
+      <node id="Automated theorem proving" label="Automated theorem proving" />
+      <node id="BIOS" label="BIOS" />
+      <node id="Cyrix 6x86" label="Cyrix 6x86" />
+      <node id="Complex instruction set computer" label="Complex instruction set computer" />
+      <node id="Compaq" label="Compaq" />
+      <node id="Duopoly" label="Duopoly" />
+      <node id="Flaming (Internet)" label="Flaming (Internet)" />
+      <node id="Stock exchange" label="Stock exchange" />
+      <node id="Stock symbol" label="Stock symbol" />
+      <node id="Wikipedia:Categorizing redirects" label="Wikipedia:Categorizing redirects" />
+      <node id="Template:R from acronym" label="Template:R from acronym" />
+      <node id="Template:R from short name" label="Template:R from short name" />
+      <node id="Category:Redirects from initialisms" label="Category:Redirects from initialisms" />
+      <node id="AMD FireStream" label="AMD FireStream" />
+      <node id="Video card" label="Video card" />
+      <node id="Parallel computing" label="Parallel computing" />
+      <node id="ATI Technologies" label="ATI Technologies" />
+      <node id="Graphics processing unit" label="Graphics processing unit" />
+      <node id="Radeon" label="Radeon" />
+      <node id="Radeon R400 series" label="Radeon R400 series" />
+      <node id="ATI TruForm" label="ATI TruForm" />
+      <node id="HyperZ" label="HyperZ" />
+      <node id="ATI Multi Rendering" label="ATI Multi Rendering" />
+      <node id="AMDGPU" label="AMDGPU" />
+      <node id="AMD APP SDK" label="AMD APP SDK" />
+      <node id="AMD Catalyst" label="AMD Catalyst" />
+      <node id="AMD CodeAnalyst" label="AMD CodeAnalyst" />
+      <node id="AMD Core Math Library" label="AMD Core Math Library" />
+      <node id="AMD CrossFire" label="AMD CrossFire" />
+      <node id="AMD Eyefinity" label="AMD Eyefinity" />
+      <node id="AMD FireMV" label="AMD FireMV" />
+      <node id="AMD FirePro" label="AMD FirePro" />
+      <node id="AMD GPU PerfStudio" label="AMD GPU PerfStudio" />
+      <node id="Actor model theory" label="Actor model theory" />
+      <node id="Wikipedia:WikiProject Mathematics/List of mathematics articles (A–C)" label="Wikipedia:WikiProject Mathematics/List of mathematics articles (A–C)" />
+      <node id="Actor model" label="Actor model" />
+      <node id="Wikipedia:WikiProject Mathematics/List of mathematics articles (A)" label="Wikipedia:WikiProject Mathematics/List of mathematics articles (A)" />
+      <node id="Actor model implementation" label="Actor model implementation" />
+      <node id="Actor model and process calculi" label="Actor model and process calculi" />
+      <node id="History of the Actor model" label="History of the Actor model" />
+      <node id="Talk:Actor model and process calculi" label="Talk:Actor model and process calculi" />
+      <node id="Power domains" label="Power domains" />
+      <node id="Indeterminacy in concurrent computation" label="Indeterminacy in concurrent computation" />
+      <node id="Actor model early history" label="Actor model early history" />
+      <node id="Akinori Yonezawa" label="Akinori Yonezawa" />
+      <node id="Arbiter (electronics)" label="Arbiter (electronics)" />
+      <node id="Denotational semantics" label="Denotational semantics" />
+      <node id="Denotational semantics of the Actor model" label="Denotational semantics of the Actor model" />
+      <node id="Eike Best" label="Eike Best" />
+      <node id="Frame of reference" label="Frame of reference" />
+      <node id="Address space" label="Address space" />
+      <node id="Bit" label="Bit" />
+      <node id="Byte" label="Byte" />
+      <node id="Cache (computing)" label="Cache (computing)" />
+      <node id="Domain Name System" label="Domain Name System" />
+      <node id="History of the Internet" label="History of the Internet" />
+      <node id="IP address" label="IP address" />
+      <node id="Interrupt" label="Interrupt" />
+      <node id="Addition" label="Addition" />
+      <node id="Address Resolution Protocol" label="Address Resolution Protocol" />
+      <node id="Addressability" label="Addressability" />
+      <node id="Arborescence (graph theory)" label="Arborescence (graph theory)" />
+      <node id="CPU cache" label="CPU cache" />
+      <node id="Computer architecture" label="Computer architecture" />
+      <node id="Computer data storage" label="Computer data storage" />
+      <node id="Computer network" label="Computer network" />
+      <node id="Computing" label="Computing" />
+      <node id="Cylinder-head-sector" label="Cylinder-head-sector" />
+      <node id="Algorithm" label="Algorithm" />
+      <node id="Algorithms (journal)" label="Algorithms (journal)" />
+      <node id="Apple Inc." label="Apple Inc." />
+      <node id="Ada Lovelace" label="Ada Lovelace" />
+      <node id="Algorithms for calculating variance" label="Algorithms for calculating variance" />
+      <node id="Talk:Algorithms for calculating variance" label="Talk:Algorithms for calculating variance" />
+      <node id="Artificial intelligence" label="Artificial intelligence" />
+      <node id="Alan Turing" label="Alan Turing" />
+      <node id="Talk:Algorithm" label="Talk:Algorithm" />
+      <node id="ALGOL" label="ALGOL" />
+      <node id="7400 series" label="7400 series" />
+      <node id="A.A. Markov" label="A.A. Markov" />
+      <node id="A. M. Turing" label="A. M. Turing" />
+      <node id="Abacus" label="Abacus" />
+      <node id="Abstract machine" label="Abstract machine" />
+      <node id="Al-Jabr" label="Al-Jabr" />
+      <node id="Al-Kindi" label="Al-Kindi" />
+      <node id="Al-jabr" label="Al-jabr" />
+      <node id="Algorithmic skeleton" label="Algorithmic skeleton" />
+      <node id="Software design pattern" label="Software design pattern" />
+      <node id="Skeleton (computer programming)" label="Skeleton (computer programming)" />
+      <node id="Skeleton (disambiguation)" label="Skeleton (disambiguation)" />
+      <node id="Multi-core processor" label="Multi-core processor" />
+      <node id="Programming idiom" label="Programming idiom" />
+      <node id="Task parallelism" label="Task parallelism" />
+      <node id="Threading Building Blocks" label="Threading Building Blocks" />
+      <node id="Wikipedia:WikiProject Academic Journals/Journals cited by Wikipedia/I13" label="Wikipedia:WikiProject Academic Journals/Journals cited by Wikipedia/I13" />
+      <node id="CiteSeerX (identifier)" label="CiteSeerX (identifier)" />
+      <node id="Cuneiform (programming language)" label="Cuneiform (programming language)" />
+      <node id="Data parallelism" label="Data parallelism" />
+      <node id="Doi (identifier)" label="Doi (identifier)" />
+      <node id="Evolutionary algorithm" label="Evolutionary algorithm" />
+      <node id="GPU" label="GPU" />
+      <node id="Genetic algorithm" label="Genetic algorithm" />
+      <node id="Halide (programming language)" label="Halide (programming language)" />
+      <node id="Android (robot)" label="Android (robot)" />
+      <node id="Alternate history" label="Alternate history" />
+      <node id="AI" label="AI" />
+      <node id="APL (programming language)" label="APL (programming language)" />
+      <node id="A Fire Upon the Deep" label="A Fire Upon the Deep" />
+      <node id="2001: A Space Odyssey" label="2001: A Space Odyssey" />
+      <node id="2001: A Space Odyssey (film)" label="2001: A Space Odyssey (film)" />
+      <node id="2001: A Space Odyssey (novel)" label="2001: A Space Odyssey (novel)" />
+      <node id="3D optical data storage" label="3D optical data storage" />
+      <node id="A* search algorithm" label="A* search algorithm" />
+      <node id="A.I. Artificial Intelligence" label="A.I. Artificial Intelligence" />
+      <node id="A.I. Rising" label="A.I. Rising" />
+      <node id="ACM Computing Classification System" label="ACM Computing Classification System" />
+      <node id="AI-complete" label="AI-complete" />
+      <node id="Ada (programming language)" label="Ada (programming language)" />
+      <node id="Ada" label="Ada" />
+      <node id="Talk:Ada (programming language)" label="Talk:Ada (programming language)" />
+      <node id="Assembly language" label="Assembly language" />
+      <node id="Association for Computing Machinery" label="Association for Computing Machinery" />
+      <node id="Ariane 5" label="Ariane 5" />
+      <node id="Binary-coded decimal" label="Binary-coded decimal" />
+      <node id="BASIC" label="BASIC" />
+      <node id="ACM Queue" label="ACM Queue" />
+      <node id="ALGOL 60" label="ALGOL 60" />
+      <node id="ALGOL 68" label="ALGOL 68" />
+      <node id="APSE" label="APSE" />
+      <node id="Advanced Computer Techniques" label="Advanced Computer Techniques" />
+      <node id="Air University (United States Air Force)" label="Air University (United States Air Force)" />
+      <node id="Air traffic control" label="Air traffic control" />
+      <node id="Atanasoff–Berry computer" label="Atanasoff–Berry computer" />
+      <node id="ABC" label="ABC" />
+      <node id="Computer science" label="Computer science" />
+      <node id="George Washington Carver" label="George Washington Carver" />
+      <node id="Talk:History of computing hardware" label="Talk:History of computing hardware" />
+      <node id="Iowa State University" label="Iowa State University" />
+      <node id="June 15" label="June 15" />
+      <node id="October 4" label="October 4" />
+      <node id="Williams tube" label="Williams tube" />
+      <node id="1941" label="1941" />
+      <node id="Regeneration" label="Regeneration" />
+      <node id="1-bit computing" label="1-bit computing" />
+      <node id="12-bit computing" label="12-bit computing" />
+      <node id="128-bit computing" label="128-bit computing" />
+      <node id="24-bit computing" label="24-bit computing" />
+      <node id="256-bit computing" label="256-bit computing" />
+      <node id="32-bit computing" label="32-bit computing" />
+      <node id="48-bit computing" label="48-bit computing" />
+      <node id="512-bit computing" label="512-bit computing" />
+      <node id="APL" label="APL" />
+      <node id="B (programming language)" label="B (programming language)" />
+      <node id="Bash (Unix shell)" label="Bash (Unix shell)" />
+      <node id="Compiler" label="Compiler" />
+      <node id="C (programming language)" label="C (programming language)" />
+      <node id="Garbage collection (computer science)" label="Garbage collection (computer science)" />
+      <node id="COBOL" label="COBOL" />
+      <node id=".NET Framework" label=".NET Framework" />
+      <node id="110 film" label="110 film" />
+      <node id="126 film" label="126 film" />
+      <node id="135 film" label="135 film" />
+      <node id="19-inch rack" label="19-inch rack" />
+      <node id="A+ (programming language)" label="A+ (programming language)" />
+      <node id="A440 (pitch standard)" label="A440 (pitch standard)" />
+      <node id="AES3" label="AES3" />
+      <node id="AES47" label="AES47" />
+      <node id="Array data structure" label="Array data structure" />
+      <node id="AVL tree" label="AVL tree" />
+      <node id="Amdahl's law" label="Amdahl's law" />
+      <node id="Abstract data type" label="Abstract data type" />
+      <node id="Atlas Autocode" label="Atlas Autocode" />
+      <node id="Binary search algorithm" label="Binary search algorithm" />
+      <node id="Binary search tree" label="Binary search tree" />
+      <node id="Binary tree" label="Binary tree" />
+      <node id="32-bit" label="32-bit" />
+      <node id="AA tree" label="AA tree" />
+      <node id="Addressing mode" label="Addressing mode" />
+      <node id="Amortized analysis" label="Amortized analysis" />
+      <node id="Analysis of parallel algorithms" label="Analysis of parallel algorithms" />
+      <node id="Analysis of algorithms" label="Analysis of algorithms" />
+      <node id="Talk:Analysis of algorithms" label="Talk:Analysis of algorithms" />
+      <node id="Bioinformatics" label="Bioinformatics" />
+      <node id="Combinatorics" label="Combinatorics" />
+      <node id="Computer programming" label="Computer programming" />
+      <node id="Computational linguistics" label="Computational linguistics" />
+      <node id="Algorithm design" label="Algorithm design" />
+      <node id="Algorithmic efficiency" label="Algorithmic efficiency" />
+      <node id="Application security" label="Application security" />
+      <node id="Arbitrary-precision arithmetic" label="Arbitrary-precision arithmetic" />
+      <node id="Arithmetic progression" label="Arithmetic progression" />
+      <node id="Computer memory" label="Computer memory" />
+      <node id="Computer multitasking" label="Computer multitasking" />
+      <node id="Processor design" label="Processor design" />
+      <node id="Distributed computing" label="Distributed computing" />
+      <node id="DDR SDRAM" label="DDR SDRAM" />
+      <node id="Floppy disk" label="Floppy disk" />
+      <node id="Hard disk drive" label="Hard disk drive" />
+      <node id="Killer micro" label="Killer micro" />
+      <node id="Aeronutronic" label="Aeronutronic" />
+      <node id="American Federation of Information Processing Societies" label="American Federation of Information Processing Societies" />
+      <node id="Application checkpointing" label="Application checkpointing" />
+      <node id="Application programming interface" label="Application programming interface" />
+      <node id="Asymmetric multiprocessing" label="Asymmetric multiprocessing" />
+      <node id="Ateji PX" label="Ateji PX" />
+      <node id="Automatic parallelization" label="Automatic parallelization" />
+      <node id="Advanced Power Management" label="Advanced Power Management" />
+      <node id="Central processing unit" label="Central processing unit" />
+      <node id="Control unit" label="Control unit" />
+      <node id="Control store" label="Control store" />
+      <node id="Execution unit" label="Execution unit" />
+      <node id="Instruction register" label="Instruction register" />
+      <node id="Arithmetic mean" label="Arithmetic mean" />
+      <node id="Analysis of variance" label="Analysis of variance" />
+      <node id="Anatomy" label="Anatomy" />
+      <node id="Adrenal gland" label="Adrenal gland" />
+      <node id="Autocorrelation" label="Autocorrelation" />
+      <node id="Astrobiology" label="Astrobiology" />
+      <node id="Bell Labs" label="Bell Labs" />
+      <node id="Biostatistics" label="Biostatistics" />
+      <node id="Biochemistry" label="Biochemistry" />
+      <node id="Botany" label="Botany" />
+      <node id=".NET Bio" label=".NET Bio" />
+      <node id="2-D electrophoresis" label="2-D electrophoresis" />
+      <node id="Abiogenesis" label="Abiogenesis" />
+      <node id="Accuracy" label="Accuracy" />
+      <node id="Adaptation" label="Adaptation" />
+      <node id="Adaptive radiation" label="Adaptive radiation" />
+      <node id="Aerobiology" label="Aerobiology" />
+      <node id="African Society for Bioinformatics and Computational Biology" label="African Society for Bioinformatics and Computational Biology" />
+      <node id="Agrostology" label="Agrostology" />
+      <node id="Archimedes" label="Archimedes" />
+      <node id="Algebraic geometry" label="Algebraic geometry" />
+      <node id="Associative algebra" label="Associative algebra" />
+      <node id="Analytic geometry" label="Analytic geometry" />
+      <node id="Arithmetic" label="Arithmetic" />
+      <node id="Bill Gates" label="Bill Gates" />
+      <node id="Binomial coefficient" label="Binomial coefficient" />
+      <node id="Binomial theorem" label="Binomial theorem" />
+      <node id="Abraham ibn Ezra" label="Abraham ibn Ezra" />
+      <node id="Abstract algebra" label="Abstract algebra" />
+      <node id="Additive number theory" label="Additive number theory" />
+      <node id="Algebra" label="Algebra" />
+      <node id="Algebraic combinatorics" label="Algebraic combinatorics" />
+      <node id="Algebraic number theory" label="Algebraic number theory" />
+      <node id="Algebraic topology" label="Algebraic topology" />
+    </nodes>
+    <edges>
+      <edge id="0" source="16-bit" target="Amiga" />
+      <edge id="1" source="16-bit" target="Apple II series" />
+      <edge id="2" source="16-bit" target="Atari ST" />
+      <edge id="3" source="16-bit" target="Advanced Micro Devices" />
+      <edge id="4" source="16-bit" target="Athlon" />
+      <edge id="5" source="16-bit" target="Amiga 500" />
+      <edge id="6" source="16-bit" target="Amiga 1000" />
+      <edge id="7" source="16-bit" target="Amiga 500 Plus" />
+      <edge id="8" source="16-bit" target="Commodore 64" />
+      <edge id="9" source="16-bit" target="Digital Equipment Corporation" />
+      <edge id="10" source="16-bit" target="16-bit computing" />
+      <edge id="11" source="16-bit" target="Wikipedia:Protection policy" />
+      <edge id="12" source="16-bit" target="Wikipedia:Redirect" />
+      <edge id="13" source="16-bit" target="Category:Redirects from moves" />
+      <edge id="14" source="4-bit" target="Advanced Micro Devices" />
+      <edge id="15" source="4-bit" target="Intel" />
+      <edge id="16" source="4-bit" target="Intel 80286" />
+      <edge id="17" source="4-bit" target="Intel 8080" />
+      <edge id="18" source="4-bit" target="Intel 8086" />
+      <edge id="19" source="4-bit" target="Intel 8088" />
+      <edge id="20" source="4-bit" target="I386" />
+      <edge id="21" source="4-bit" target="I486" />
+      <edge id="22" source="4-bit" target="Intel 80486SX" />
+      <edge id="23" source="4-bit" target="Intel 80186" />
+      <edge id="24" source="4-bit" target="4-bit computing" />
+      <edge id="25" source="4-bit" target="Wikipedia:Protection policy" />
+      <edge id="26" source="4-bit" target="Wikipedia:Redirect" />
+      <edge id="27" source="4-bit" target="Category:Redirects from moves" />
+      <edge id="28" source="64-bit" target="Accelerated Graphics Port" />
+      <edge id="29" source="64-bit" target="Advanced Micro Devices" />
+      <edge id="30" source="64-bit" target="Athlon" />
+      <edge id="31" source="64-bit" target="Buffer overflow" />
+      <edge id="32" source="64-bit" target="BeOS" />
+      <edge id="33" source="64-bit" target="Digital Equipment Corporation" />
+      <edge id="34" source="64-bit" target="Duke Nukem 3D" />
+      <edge id="35" source="64-bit" target="DEC Alpha" />
+      <edge id="36" source="64-bit" target="Executable and Linkable Format" />
+      <edge id="37" source="64-bit" target="IBM mainframe" />
+      <edge id="38" source="64-bit" target="64-bit computing" />
+      <edge id="39" source="64-bit" target="Wikipedia:1" />
+      <edge id="40" source="64-bit" target="Wikipedia:Printability" />
+      <edge id="41" source="64-bit" target="Category:Redirects from moves" />
+      <edge id="42" source="64-bit" target="Category:Unprintworthy redirects" />
+      <edge id="43" source="8-bit" target="Amiga" />
+      <edge id="44" source="8-bit" target="Acorn Electron" />
+      <edge id="45" source="8-bit" target="Apple III" />
+      <edge id="46" source="8-bit" target="Atari ST" />
+      <edge id="47" source="8-bit" target="Amstrad CPC" />
+      <edge id="48" source="8-bit" target="Apple II" />
+      <edge id="49" source="8-bit" target="Arcadia 2001" />
+      <edge id="50" source="8-bit" target="Amiga 500" />
+      <edge id="51" source="8-bit" target="Amiga 1000" />
+      <edge id="52" source="8-bit" target="Amiga 500 Plus" />
+      <edge id="53" source="8-bit" target="8-bit computing" />
+      <edge id="54" source="8-bit" target="Wikipedia:Protection policy" />
+      <edge id="55" source="8-bit" target="Wikipedia:Redirect" />
+      <edge id="56" source="8-bit" target="Category:Redirects from moves" />
+      <edge id="57" source="AMD" target="Advanced Micro Devices" />
+      <edge id="58" source="AMD" target="Automated theorem proving" />
+      <edge id="59" source="AMD" target="BIOS" />
+      <edge id="60" source="AMD" target="Cyrix 6x86" />
+      <edge id="61" source="AMD" target="Complex instruction set computer" />
+      <edge id="62" source="AMD" target="Compaq" />
+      <edge id="63" source="AMD" target="Duopoly" />
+      <edge id="64" source="AMD" target="Flaming (Internet)" />
+      <edge id="65" source="AMD" target="Intel 80286" />
+      <edge id="66" source="AMD" target="Intel 8086" />
+      <edge id="67" source="AMD" target="Stock exchange" />
+      <edge id="68" source="AMD" target="Stock symbol" />
+      <edge id="69" source="AMD" target="Wikipedia:Categorizing redirects" />
+      <edge id="70" source="AMD" target="Wikipedia:Protection policy" />
+      <edge id="71" source="AMD" target="Wikipedia:Redirect" />
+      <edge id="72" source="AMD" target="Template:R from acronym" />
+      <edge id="73" source="AMD" target="Template:R from short name" />
+      <edge id="74" source="AMD" target="Category:Redirects from initialisms" />
+      <edge id="75" source="AMD" target="Category:Redirects from moves" />
+      <edge id="76" source="AMD FireStream" target="Advanced Micro Devices" />
+      <edge id="77" source="AMD FireStream" target="Video card" />
+      <edge id="78" source="AMD FireStream" target="Parallel computing" />
+      <edge id="79" source="AMD FireStream" target="ATI Technologies" />
+      <edge id="80" source="AMD FireStream" target="Graphics processing unit" />
+      <edge id="81" source="AMD FireStream" target="Radeon" />
+      <edge id="82" source="AMD FireStream" target="Radeon R400 series" />
+      <edge id="83" source="AMD FireStream" target="ATI TruForm" />
+      <edge id="84" source="AMD FireStream" target="HyperZ" />
+      <edge id="85" source="AMD FireStream" target="ATI Multi Rendering" />
+      <edge id="86" source="AMD FireStream" target="AMDGPU" />
+      <edge id="87" source="AMD FireStream" target="AMD APP SDK" />
+      <edge id="88" source="AMD FireStream" target="AMD Catalyst" />
+      <edge id="89" source="AMD FireStream" target="AMD CodeAnalyst" />
+      <edge id="90" source="AMD FireStream" target="AMD Core Math Library" />
+      <edge id="91" source="AMD FireStream" target="AMD CrossFire" />
+      <edge id="92" source="AMD FireStream" target="AMD Eyefinity" />
+      <edge id="93" source="AMD FireStream" target="AMD FireMV" />
+      <edge id="94" source="AMD FireStream" target="AMD FirePro" />
+      <edge id="95" source="AMD FireStream" target="AMD GPU PerfStudio" />
+      <edge id="96" source="Actor model theory" target="Parallel computing" />
+      <edge id="97" source="Actor model theory" target="Wikipedia:WikiProject Mathematics/List of mathematics articles (A–C)" />
+      <edge id="98" source="Actor model theory" target="Actor model" />
+      <edge id="99" source="Actor model theory" target="Wikipedia:WikiProject Mathematics/List of mathematics articles (A)" />
+      <edge id="100" source="Actor model theory" target="Actor model implementation" />
+      <edge id="101" source="Actor model theory" target="Actor model and process calculi" />
+      <edge id="102" source="Actor model theory" target="History of the Actor model" />
+      <edge id="103" source="Actor model theory" target="Talk:Actor model and process calculi" />
+      <edge id="104" source="Actor model theory" target="Power domains" />
+      <edge id="105" source="Actor model theory" target="Indeterminacy in concurrent computation" />
+      <edge id="106" source="Actor model theory" target="Actor model early history" />
+      <edge id="107" source="Actor model theory" target="Akinori Yonezawa" />
+      <edge id="108" source="Actor model theory" target="Arbiter (electronics)" />
+      <edge id="109" source="Actor model theory" target="Denotational semantics" />
+      <edge id="110" source="Actor model theory" target="Denotational semantics of the Actor model" />
+      <edge id="111" source="Actor model theory" target="Eike Best" />
+      <edge id="112" source="Actor model theory" target="Frame of reference" />
+      <edge id="113" source="Address space" target="Amiga 500" />
+      <edge id="114" source="Address space" target="Bit" />
+      <edge id="115" source="Address space" target="Byte" />
+      <edge id="116" source="Address space" target="Cache (computing)" />
+      <edge id="117" source="Address space" target="Commodore 64" />
+      <edge id="118" source="Address space" target="Domain Name System" />
+      <edge id="119" source="Address space" target="History of the Internet" />
+      <edge id="120" source="Address space" target="IBM mainframe" />
+      <edge id="121" source="Address space" target="IP address" />
+      <edge id="122" source="Address space" target="Interrupt" />
+      <edge id="123" source="Address space" target="Addition" />
+      <edge id="124" source="Address space" target="Address Resolution Protocol" />
+      <edge id="125" source="Address space" target="Addressability" />
+      <edge id="126" source="Address space" target="Arborescence (graph theory)" />
+      <edge id="127" source="Address space" target="CPU cache" />
+      <edge id="128" source="Address space" target="Computer architecture" />
+      <edge id="129" source="Address space" target="Computer data storage" />
+      <edge id="130" source="Address space" target="Computer network" />
+      <edge id="131" source="Address space" target="Computing" />
+      <edge id="132" source="Address space" target="Cylinder-head-sector" />
+      <edge id="133" source="Algorithm" target="Algorithms (journal)" />
+      <edge id="134" source="Algorithm" target="Algorithm" />
+      <edge id="135" source="Algorithm" target="Apple Inc." />
+      <edge id="136" source="Algorithm" target="Ada Lovelace" />
+      <edge id="137" source="Algorithm" target="Algorithms for calculating variance" />
+      <edge id="138" source="Algorithm" target="Talk:Algorithms for calculating variance" />
+      <edge id="139" source="Algorithm" target="Artificial intelligence" />
+      <edge id="140" source="Algorithm" target="Alan Turing" />
+      <edge id="141" source="Algorithm" target="Talk:Algorithm" />
+      <edge id="142" source="Algorithm" target="ALGOL" />
+      <edge id="143" source="Algorithm" target="7400 series" />
+      <edge id="144" source="Algorithm" target="A.A. Markov" />
+      <edge id="145" source="Algorithm" target="A. M. Turing" />
+      <edge id="146" source="Algorithm" target="Abacus" />
+      <edge id="147" source="Algorithm" target="Abstract machine" />
+      <edge id="148" source="Algorithm" target="Al-Jabr" />
+      <edge id="149" source="Algorithm" target="Al-Kindi" />
+      <edge id="150" source="Algorithm" target="Al-jabr" />
+      <edge id="151" source="Artificial intelligence" target="Android (robot)" />
+      <edge id="152" source="Artificial intelligence" target="Algorithm" />
+      <edge id="153" source="Artificial intelligence" target="Apple Inc." />
+      <edge id="154" source="Artificial intelligence" target="Ada Lovelace" />
+      <edge id="155" source="Artificial intelligence" target="Artificial intelligence" />
+      <edge id="156" source="Artificial intelligence" target="Alternate history" />
+      <edge id="157" source="Artificial intelligence" target="Alan Turing" />
+      <edge id="158" source="Artificial intelligence" target="AI" />
+      <edge id="159" source="Artificial intelligence" target="APL (programming language)" />
+      <edge id="160" source="Artificial intelligence" target="A Fire Upon the Deep" />
+      <edge id="161" source="Artificial intelligence" target="2001: A Space Odyssey" />
+      <edge id="162" source="Artificial intelligence" target="2001: A Space Odyssey (film)" />
+      <edge id="163" source="Artificial intelligence" target="2001: A Space Odyssey (novel)" />
+      <edge id="164" source="Artificial intelligence" target="3D optical data storage" />
+      <edge id="165" source="Artificial intelligence" target="A* search algorithm" />
+      <edge id="166" source="Artificial intelligence" target="A.I. Artificial Intelligence" />
+      <edge id="167" source="Artificial intelligence" target="A.I. Rising" />
+      <edge id="168" source="Artificial intelligence" target="ACM Computing Classification System" />
+      <edge id="169" source="Artificial intelligence" target="AI-complete" />
+      <edge id="170" source="Algorithmic skeleton" target="Parallel computing" />
+      <edge id="171" source="Algorithmic skeleton" target="Software design pattern" />
+      <edge id="172" source="Algorithmic skeleton" target="Skeleton (computer programming)" />
+      <edge id="173" source="Algorithmic skeleton" target="Skeleton (disambiguation)" />
+      <edge id="174" source="Algorithmic skeleton" target="Multi-core processor" />
+      <edge id="175" source="Algorithmic skeleton" target="Programming idiom" />
+      <edge id="176" source="Algorithmic skeleton" target="Task parallelism" />
+      <edge id="177" source="Algorithmic skeleton" target="Threading Building Blocks" />
+      <edge id="178" source="Algorithmic skeleton" target="Wikipedia:WikiProject Academic Journals/Journals cited by Wikipedia/I13" />
+      <edge id="179" source="Algorithmic skeleton" target="Algorithmic skeleton" />
+      <edge id="180" source="Algorithmic skeleton" target="CiteSeerX (identifier)" />
+      <edge id="181" source="Algorithmic skeleton" target="Computing" />
+      <edge id="182" source="Algorithmic skeleton" target="Cuneiform (programming language)" />
+      <edge id="183" source="Algorithmic skeleton" target="Data parallelism" />
+      <edge id="184" source="Algorithmic skeleton" target="Doi (identifier)" />
+      <edge id="185" source="Algorithmic skeleton" target="Evolutionary algorithm" />
+      <edge id="186" source="Algorithmic skeleton" target="GPU" />
+      <edge id="187" source="Algorithmic skeleton" target="Genetic algorithm" />
+      <edge id="188" source="Algorithmic skeleton" target="Halide (programming language)" />
+      <edge id="189" source="APL (programming language)" target="APL" />
+      <edge id="190" source="APL (programming language)" target="Ada (programming language)" />
+      <edge id="191" source="APL (programming language)" target="ALGOL" />
+      <edge id="192" source="APL (programming language)" target="BASIC" />
+      <edge id="193" source="APL (programming language)" target="B (programming language)" />
+      <edge id="194" source="APL (programming language)" target="Bash (Unix shell)" />
+      <edge id="195" source="APL (programming language)" target="Compiler" />
+      <edge id="196" source="APL (programming language)" target="C (programming language)" />
+      <edge id="197" source="APL (programming language)" target="Garbage collection (computer science)" />
+      <edge id="198" source="APL (programming language)" target="COBOL" />
+      <edge id="199" source="APL (programming language)" target=".NET Framework" />
+      <edge id="200" source="APL (programming language)" target="110 film" />
+      <edge id="201" source="APL (programming language)" target="126 film" />
+      <edge id="202" source="APL (programming language)" target="135 film" />
+      <edge id="203" source="APL (programming language)" target="19-inch rack" />
+      <edge id="204" source="APL (programming language)" target="A+ (programming language)" />
+      <edge id="205" source="APL (programming language)" target="A440 (pitch standard)" />
+      <edge id="206" source="APL (programming language)" target="AES3" />
+      <edge id="207" source="APL (programming language)" target="AES47" />
+      <edge id="208" source="Ada (programming language)" target="Ada" />
+      <edge id="209" source="Ada (programming language)" target="Ada Lovelace" />
+      <edge id="210" source="Ada (programming language)" target="Talk:Ada (programming language)" />
+      <edge id="211" source="Ada (programming language)" target="Assembly language" />
+      <edge id="212" source="Ada (programming language)" target="APL (programming language)" />
+      <edge id="213" source="Ada (programming language)" target="ALGOL" />
+      <edge id="214" source="Ada (programming language)" target="Association for Computing Machinery" />
+      <edge id="215" source="Ada (programming language)" target="Ariane 5" />
+      <edge id="216" source="Ada (programming language)" target="Binary-coded decimal" />
+      <edge id="217" source="Ada (programming language)" target="BASIC" />
+      <edge id="218" source="Ada (programming language)" target="ACM Queue" />
+      <edge id="219" source="Ada (programming language)" target="ALGOL 60" />
+      <edge id="220" source="Ada (programming language)" target="ALGOL 68" />
+      <edge id="221" source="Ada (programming language)" target="APSE" />
+      <edge id="222" source="Ada (programming language)" target="Advanced Computer Techniques" />
+      <edge id="223" source="Ada (programming language)" target="Air University (United States Air Force)" />
+      <edge id="224" source="Ada (programming language)" target="Air traffic control" />
+      <edge id="225" source="Atanasoff–Berry computer" target="ABC" />
+      <edge id="226" source="Atanasoff–Berry computer" target="Computer science" />
+      <edge id="227" source="Atanasoff–Berry computer" target="George Washington Carver" />
+      <edge id="228" source="Atanasoff–Berry computer" target="Talk:History of computing hardware" />
+      <edge id="229" source="Atanasoff–Berry computer" target="Iowa State University" />
+      <edge id="230" source="Atanasoff–Berry computer" target="June 15" />
+      <edge id="231" source="Atanasoff–Berry computer" target="October 4" />
+      <edge id="232" source="Atanasoff–Berry computer" target="Williams tube" />
+      <edge id="233" source="Atanasoff–Berry computer" target="1941" />
+      <edge id="234" source="Atanasoff–Berry computer" target="Regeneration" />
+      <edge id="235" source="Atanasoff–Berry computer" target="1-bit computing" />
+      <edge id="236" source="Atanasoff–Berry computer" target="12-bit computing" />
+      <edge id="237" source="Atanasoff–Berry computer" target="128-bit computing" />
+      <edge id="238" source="Atanasoff–Berry computer" target="16-bit computing" />
+      <edge id="239" source="Atanasoff–Berry computer" target="24-bit computing" />
+      <edge id="240" source="Atanasoff–Berry computer" target="256-bit computing" />
+      <edge id="241" source="Atanasoff–Berry computer" target="32-bit computing" />
+      <edge id="242" source="Atanasoff–Berry computer" target="4-bit computing" />
+      <edge id="243" source="Atanasoff–Berry computer" target="48-bit computing" />
+      <edge id="244" source="Atanasoff–Berry computer" target="512-bit computing" />
+      <edge id="245" source="Array data structure" target="Algorithm" />
+      <edge id="246" source="Array data structure" target="APL (programming language)" />
+      <edge id="247" source="Array data structure" target="AVL tree" />
+      <edge id="248" source="Array data structure" target="Amdahl's law" />
+      <edge id="249" source="Array data structure" target="Abstract data type" />
+      <edge id="250" source="Array data structure" target="Atlas Autocode" />
+      <edge id="251" source="Array data structure" target="Binary search algorithm" />
+      <edge id="252" source="Array data structure" target="Binary search tree" />
+      <edge id="253" source="Array data structure" target="Binary tree" />
+      <edge id="254" source="Array data structure" target="Buffer overflow" />
+      <edge id="255" source="Array data structure" target="32-bit" />
+      <edge id="256" source="Array data structure" target="AA tree" />
+      <edge id="257" source="Array data structure" target="ALGOL" />
+      <edge id="258" source="Array data structure" target="Addressing mode" />
+      <edge id="259" source="Array data structure" target="Amortized analysis" />
+      <edge id="260" source="Array data structure" target="Analysis of parallel algorithms" />
+      <edge id="261" source="Amdahl's law" target="Array data structure" />
+      <edge id="262" source="Amdahl's law" target="Computer data storage" />
+      <edge id="263" source="Amdahl's law" target="Computer memory" />
+      <edge id="264" source="Amdahl's law" target="Computer multitasking" />
+      <edge id="265" source="Amdahl's law" target="Processor design" />
+      <edge id="266" source="Amdahl's law" target="Distributed computing" />
+      <edge id="267" source="Amdahl's law" target="DDR SDRAM" />
+      <edge id="268" source="Amdahl's law" target="Floppy disk" />
+      <edge id="269" source="Amdahl's law" target="Hard disk drive" />
+      <edge id="270" source="Amdahl's law" target="Killer micro" />
+      <edge id="271" source="Amdahl's law" target="Aeronutronic" />
+      <edge id="272" source="Amdahl's law" target="American Federation of Information Processing Societies" />
+      <edge id="273" source="Amdahl's law" target="Analysis of parallel algorithms" />
+      <edge id="274" source="Amdahl's law" target="Application checkpointing" />
+      <edge id="275" source="Amdahl's law" target="Application programming interface" />
+      <edge id="276" source="Amdahl's law" target="Association for Computing Machinery" />
+      <edge id="277" source="Amdahl's law" target="Asymmetric multiprocessing" />
+      <edge id="278" source="Amdahl's law" target="Ateji PX" />
+      <edge id="279" source="Amdahl's law" target="Automatic parallelization" />
+      <edge id="280" source="Analysis of algorithms" target="Algorithm" />
+      <edge id="281" source="Analysis of algorithms" target="Artificial intelligence" />
+      <edge id="282" source="Analysis of algorithms" target="Talk:Analysis of algorithms" />
+      <edge id="283" source="Analysis of algorithms" target="Abstract data type" />
+      <edge id="284" source="Analysis of algorithms" target="Bioinformatics" />
+      <edge id="285" source="Analysis of algorithms" target="Combinatorics" />
+      <edge id="286" source="Analysis of algorithms" target="Computing" />
+      <edge id="287" source="Analysis of algorithms" target="Computer programming" />
+      <edge id="288" source="Analysis of algorithms" target="Computer science" />
+      <edge id="289" source="Analysis of algorithms" target="Computational linguistics" />
+      <edge id="290" source="Analysis of algorithms" target="ACM Computing Classification System" />
+      <edge id="291" source="Analysis of algorithms" target="Abstract machine" />
+      <edge id="292" source="Analysis of algorithms" target="Algorithm design" />
+      <edge id="293" source="Analysis of algorithms" target="Algorithmic efficiency" />
+      <edge id="294" source="Analysis of algorithms" target="Amortized analysis" />
+      <edge id="295" source="Analysis of algorithms" target="Analysis of parallel algorithms" />
+      <edge id="296" source="Analysis of algorithms" target="Application security" />
+      <edge id="297" source="Analysis of algorithms" target="Arbitrary-precision arithmetic" />
+      <edge id="298" source="Analysis of algorithms" target="Arithmetic progression" />
+      <edge id="299" source="Bioinformatics" target="Arithmetic mean" />
+      <edge id="300" source="Bioinformatics" target="Analysis of variance" />
+      <edge id="301" source="Bioinformatics" target="Anatomy" />
+      <edge id="302" source="Bioinformatics" target="Adrenal gland" />
+      <edge id="303" source="Bioinformatics" target="Autocorrelation" />
+      <edge id="304" source="Bioinformatics" target="Astrobiology" />
+      <edge id="305" source="Bioinformatics" target="Bell Labs" />
+      <edge id="306" source="Bioinformatics" target="Biostatistics" />
+      <edge id="307" source="Bioinformatics" target="Biochemistry" />
+      <edge id="308" source="Bioinformatics" target="Botany" />
+      <edge id="309" source="Bioinformatics" target=".NET Bio" />
+      <edge id="310" source="Bioinformatics" target="2-D electrophoresis" />
+      <edge id="311" source="Bioinformatics" target="ACM Computing Classification System" />
+      <edge id="312" source="Bioinformatics" target="Abiogenesis" />
+      <edge id="313" source="Bioinformatics" target="Accuracy" />
+      <edge id="314" source="Bioinformatics" target="Adaptation" />
+      <edge id="315" source="Bioinformatics" target="Adaptive radiation" />
+      <edge id="316" source="Bioinformatics" target="Aerobiology" />
+      <edge id="317" source="Bioinformatics" target="African Society for Bioinformatics and Computational Biology" />
+      <edge id="318" source="Bioinformatics" target="Agrostology" />
+      <edge id="319" source="Combinatorics" target="Algorithm" />
+      <edge id="320" source="Combinatorics" target="Archimedes" />
+      <edge id="321" source="Combinatorics" target="Algebraic geometry" />
+      <edge id="322" source="Combinatorics" target="Associative algebra" />
+      <edge id="323" source="Combinatorics" target="Analytic geometry" />
+      <edge id="324" source="Combinatorics" target="Arithmetic" />
+      <edge id="325" source="Combinatorics" target="Bill Gates" />
+      <edge id="326" source="Combinatorics" target="Binary tree" />
+      <edge id="327" source="Combinatorics" target="Binomial coefficient" />
+      <edge id="328" source="Combinatorics" target="Binomial theorem" />
+      <edge id="329" source="Combinatorics" target="ACM Computing Classification System" />
+      <edge id="330" source="Combinatorics" target="Abraham ibn Ezra" />
+      <edge id="331" source="Combinatorics" target="Abstract algebra" />
+      <edge id="332" source="Combinatorics" target="Additive number theory" />
+      <edge id="333" source="Combinatorics" target="Algebra" />
+      <edge id="334" source="Combinatorics" target="Algebraic combinatorics" />
+      <edge id="335" source="Combinatorics" target="Algebraic number theory" />
+      <edge id="336" source="Combinatorics" target="Algebraic topology" />
+      <edge id="337" source="Advanced Power Management" target="Atanasoff–Berry computer" />
+      <edge id="338" source="Advanced Power Management" target="BIOS" />
+      <edge id="339" source="Advanced Power Management" target="Central processing unit" />
+      <edge id="340" source="Advanced Power Management" target="Control unit" />
+      <edge id="341" source="Advanced Power Management" target="Control store" />
+      <edge id="342" source="Advanced Power Management" target="Processor design" />
+      <edge id="343" source="Advanced Power Management" target="Complex instruction set computer" />
+      <edge id="344" source="Advanced Power Management" target="DEC Alpha" />
+      <edge id="345" source="Advanced Power Management" target="Execution unit" />
+      <edge id="346" source="Advanced Power Management" target="Instruction register" />
+      <edge id="347" source="Advanced Power Management" target="1-bit computing" />
+      <edge id="348" source="Advanced Power Management" target="12-bit computing" />
+      <edge id="349" source="Advanced Power Management" target="128-bit computing" />
+      <edge id="350" source="Advanced Power Management" target="16-bit computing" />
+      <edge id="351" source="Advanced Power Management" target="24-bit computing" />
+      <edge id="352" source="Advanced Power Management" target="256-bit computing" />
+      <edge id="353" source="Advanced Power Management" target="32-bit computing" />
+      <edge id="354" source="Advanced Power Management" target="4-bit computing" />
+      <edge id="355" source="Advanced Power Management" target="48-bit computing" />
+      <edge id="356" source="Advanced Power Management" target="512-bit computing" />
+    </edges>
+  </graph>
+</gexf>
