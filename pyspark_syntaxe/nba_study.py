@@ -73,5 +73,37 @@ def get_team_with_best_score_during_season():
     return home_team_output, away_team_output
 
 
+def details_about_team(winner, place):
+    """
+    I want to know details about a team,
+    giving a DF with data about a game, I want to know who were the
+    player on it, and which one scored more points
+    :param
+        winner: PySpark DF that contains the game details
+        place: String ("HOME" or "AWAY")
+    :return: PySpark DF with the game MVP
+    """
+    games_details_by_place = games_details.selectExpr(
+        f"TEAM_ID AS {place}_TEAM_ID",
+        "TEAM_ABBREVIATION",
+        "PLAYER_NAME",
+        "PTS",
+        "GAME_ID",
+    )
+
+    df = winner.join(
+        games_details_by_place, on=["GAME_ID", f"{place}_TEAM_ID"], how="left"
+    )
+    float_points = df.select(df["PTS"].cast("float"))
+    max_score = (
+        float_points.select(fn.max("PTS").alias("MAX")).limit(1).collect()[0].MAX
+    )
+    mvp_game = df.select(
+        ["GAME_ID", f"{place}_TEAM_ID", "PLAYER_NAME", "PTS", "TEAM_ABBREVIATION"]
+    ).where(df["PTS"] == max_score)
+    return mvp_game
+
+
 if "__main__" == __name__:
-    get_team_with_best_score_during_season()
+    home_team_wins, away_team_wins = get_team_with_best_score_during_season()
+    mvp_at_home_game = details_about_team(home_team_wins, place="HOME")
