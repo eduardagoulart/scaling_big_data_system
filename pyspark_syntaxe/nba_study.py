@@ -1,7 +1,6 @@
 import pyspark
 from pyspark.sql import SparkSession
 import pyspark.sql.functions as fn
-from pyspark.sql.functions import col
 
 
 spark = SparkSession.builder.appName("PySpark").getOrCreate()
@@ -16,27 +15,15 @@ def check_shema(df):
     print(df.printSchema())
 
 
-def get_team_with_best_score_during_season(year):
+def get_team_with_best_score_during_season():
     """
-    Problem: giving a season year, I want to know which team has scored more
-    point during that year
-    :param year: Integer
-    :return: String (team name)
+    Problem: I want to know which was the team
+    that score more points in a game at home and
+    away
+    :return:
+        String (team name with best score at home)
+        String (team name with best score as visitor)
     """
-    games = spark.read.csv("datasets/nba/games.csv", header=True)
-    print(games.show())
-
-    pandas_games = games.toPandas()
-    pandas_games["PTS_home"] = pandas_games["PTS_home"].fillna(0.0)
-    pandas_games["PTS_home"] = pandas_games["PTS_home"].astype(float)
-    # pandas_games = pandas_games.sort_values(by=["PTS_home"])
-    print(max(pandas_games["PTS_home"]))
-
-    pandas_games["PTS_away"] = pandas_games["PTS_away"].fillna(0.0)
-    pandas_games["PTS_away"] = pandas_games["PTS_away"].astype(float)
-    pandas_games = pandas_games.sort_values(by=["PTS_away"])
-    print(max(pandas_games["PTS_away"]))
-    print("----------- " * 10)
 
     float_value_home = games.select(games["PTS_home"].cast("float"))
     float_value_away = games.select(games["PTS_away"].cast("float"))
@@ -53,13 +40,38 @@ def get_team_with_best_score_during_season(year):
         .MAX
     )
 
+    team_name = teams.select(["TEAM_ID", "ABBREVIATION", "NICKNAME", "CITY"])
+    team_name_home = team_name.selectExpr(
+        "TEAM_ID AS HOME_TEAM_ID", "ABBREVIATION", "NICKNAME", "CITY"
+    )
+    team_name_away = team_name.selectExpr(
+        "TEAM_ID AS VISITOR_TEAM_ID", "ABBREVIATION", "NICKNAME", "CITY"
+    )
+
     home_team_best_score = games.select(
         ["GAME_ID", "HOME_TEAM_ID", "VISITOR_TEAM_ID", "PTS_home", "PTS_away"]
     ).where(games["PTS_home"] == max_score_home)
 
-    print(home_team_best_score.show())
-    print(max_score_away)
+    away_team_best_score = games.select(
+        ["GAME_ID", "HOME_TEAM_ID", "VISITOR_TEAM_ID", "PTS_home", "PTS_away"]
+    ).where(games["PTS_away"] == max_score_away)
+
+    home_team_output = home_team_best_score.join(
+        team_name_home, on=["HOME_TEAM_ID"], how="left"
+    )
+    home_team_output = home_team_output.join(
+        team_name_away, on=["VISITOR_TEAM_ID"], how="left"
+    )
+
+    away_team_output = away_team_best_score.join(
+        team_name_home, on=["HOME_TEAM_ID"], how="left"
+    )
+    away_team_output = away_team_output.join(
+        team_name_away, on=["VISITOR_TEAM_ID"], how="left"
+    )
+
+    return home_team_output, away_team_output
 
 
 if "__main__" == __name__:
-    get_team_with_best_score_during_season(year=2017)
+    get_team_with_best_score_during_season()
