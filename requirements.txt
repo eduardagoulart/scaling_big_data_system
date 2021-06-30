@@ -1,0 +1,13 @@
+black==21.6b0
+flake8==3.9.2
+install-jdk==0.3.0
+ipython==7.24.1
+jdk4py==11.0.9.0
+matplotlib-inline==0.1.2
+numpy==1.21.0
+pandas==1.2.5
+pep8==1.7.1
+pudb==2021.1
+pycodestyle==2.7.0
+pyspark==3.1.2
+pytest==6.2.4
