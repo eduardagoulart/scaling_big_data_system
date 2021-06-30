@@ -22,7 +22,7 @@ def replace_8m(text):
 
 
 def map_spaces(text):
-    return re.sub("[!@#$%^&*()[]{};:,./<>?\|`~-=_+]", " ", text)
+    return re.sub("[!@#$%^&*()[]{};:,./<>?|`~-=_+]", " ", text)
 
 
 def hacker_translation(texts):
