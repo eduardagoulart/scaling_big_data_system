@@ -35,3 +35,11 @@ translated_message = map(
     ),
 )
 print(list(translated_message))
+
+from toolz.functoolz import compose
+
+apply_compose = compose(
+    C.sub_chinese, replace_4a, replace_3e, replace_6g, replace_7t
+)
+translated_compose = map(apply_compose, sample_messages)
+print(list(translated_compose))
